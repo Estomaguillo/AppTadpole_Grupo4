@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AppTadpole_Grupo4"
+rootProject.name = "Tadpole_G4"
 include(":app")
+ 
